@@ -54,6 +54,11 @@ advanced:
 This are the default chunks. Please don't modify them, but create your own chunks, if you need modifications!
 Leave the tpl - properties empty to get all possible placeholders as printed array.
 
+show all possible districts with its numbers:
+```
+[[!rkiCovidDistrictList]]
+```
+
 
 
 
