@@ -1,7 +1,7 @@
 # rkiCovid
 
 * Covid Incidence Widget for MODX Revolution.
-* gets Data by API from https://api.corona-zahlen.org/docs/
+* gets Data by API from https://api.corona-zahlen.org/docs/ - please, consider supporting him by donation, if you use that widget!
 * result gets cached for given time, by default one hour
 * Show current week incidence of a given district.
 * Shows incidence history of configurable past days.
