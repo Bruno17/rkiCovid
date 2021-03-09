@@ -1,0 +1,12 @@
+config.core.php
+.idea
+.settings
+nbproject
+.project
+
+cli/vendor
+_build/site
+
+_packages/*.*
+!_packages/.gitignore
+!_packages/*.zip
