@@ -8,6 +8,8 @@
 * Can display content, depending on the current incidence value.
 * highly configurable
 
+![rkiCovid](https://user-images.githubusercontent.com/148223/110542752-c1343b00-8129-11eb-88a6-4d1275bbdd23.png)
+
 ## Installation
 
 Install Transport Package by MODX package manager
