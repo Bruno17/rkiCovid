@@ -8,7 +8,7 @@ $wrapperTpl = $modx->getOption('wrapperTpl',$scriptProperties,'rkiCovidWrapperTp
 $rangeChunksTpl = $modx->getOption('rangeChunksTpl',$scriptProperties,'');
 $rangeTextPlaceholder = $modx->getOption('rangeTextPlaceholder',$scriptProperties,'rkiCovidRangeText_' . $district);
 
-$cacheKey = $modx->getOption('cacheKey', scriptProperties, 'rkicovid');
+$cacheKey = $modx->getOption('cacheKey', $scriptProperties, 'rkicovid');
 $cacheHandler = $modx->getOption('cacheHandler', $scriptProperties, 'xPDOFileCache');
 $cacheExpires = (integer) $modx->getOption('cacheExpires', $scriptProperties, 3600);
 
